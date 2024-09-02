@@ -36,6 +36,7 @@ A curated list of awesome public dbt projects that the community can learn from.
 - [Cal-ITP](https://github.com/cal-itp/data-infra/) - California Integrated Travel Project.
 - [CalData](https://github.com/cagov/data-infrastructure) - CalData's data infrastructure.
 - [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform) - Dagster Lab's open-source data platform.
+- [dbt-beyond-the-basics](https://github.com/pgoslatara/dbt-beyond-the-basics) - Showcase of advanced options when running CI for dbt.
 
 ## Contribution Guidelines
 
